@@ -5,9 +5,7 @@
 </div>
 
 <!-- Subtitle Professional Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&height=60&lines=🎯+Welcome+to+my+Digital+Universe!;🤖+Building+Autodox+%26+Hustlrs+|+Revolutionizing+Tech;💡+22+Years+Old+|+Born+November+20%2C+2002;🔥+Leading+Backend+at+Memora+Hub+|+Serial+Entrepreneur" alt="Dynamic Subtitle" width="100%"/>
-</div>
+
 
 <!-- 🏆 MASSIVE BADGE COLLECTION 🏆 -->
 <div align="center">
