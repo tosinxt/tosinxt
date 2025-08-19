@@ -229,15 +229,66 @@ achievements: [Built Memora Hub from scratch, Co-founded ALiAS Hedge Fund, Build
 
 <div align="center">
 
-[![Autodox](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=autodox&theme=tokyonight&hide_border=true&show_owner=true&description=🤖%20AI-powered%20code%20documenter%20that%20parses%20source%20code)](https://github.com/tosinxt/autodox)
-[![Hustlrs](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=hustlrs&theme=tokyonight&hide_border=true&show_owner=true&description=🇳🇬%20Nigeria's%20biggest%20tasking%20marketplace)](https://github.com/tosinxt/hustlrs)
+### 🚀 Featured Projects
+
+<!-- Custom Project Cards -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <div>
+        <img src="https://via.placeholder.com/400x200/1a1b27/58a6ff?text=🤖+AUTODOX" alt="Autodox Project" width="100%" style="border-radius: 10px;"/>
+        <h3>🤖 Autodox</h3>
+        <p><strong>AI-Powered Code Documenter</strong></p>
+        <p>Revolutionary tool that parses source code and generates comprehensive documentation using AI</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div>
+        <img src="https://via.placeholder.com/400x200/1a1b27/ff6b6b?text=🇳🇬+HUSTLRS" alt="Hustlrs Project" width="100%" style="border-radius: 10px;"/>
+        <h3>🇳🇬 Hustlrs</h3>
+        <p><strong>Nigeria's Biggest Tasking Marketplace</strong></p>
+        <p>Connecting skilled freelancers with clients across Nigeria for various tasks and services</p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div>
+        <img src="https://via.placeholder.com/400x200/1a1b27/4ecdc4?text=🧠+MEMORA+HUB" alt="Memora Hub Project" width="100%" style="border-radius: 10px;"/>
+        <h3>🧠 Memora Hub</h3>
+        <p><strong>Memory Enhancement Platform</strong></p>
+        <p>Advanced platform for cognitive enhancement and memory training with analytics</p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div>
+        <img src="https://via.placeholder.com/400x200/1a1b27/45b7d1?text=💰+SMARTVEST" alt="SmartVest Project" width="100%" style="border-radius: 10px;"/>
+        <h3>💰 SmartVest</h3>
+        <p><strong>Investment Analytics Platform</strong></p>
+        <p>Smart investment platform with AI-powered analytics and portfolio management</p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<!-- Working Repository Links (if they exist) -->
 <div align="center">
 
-[![Memora Hub](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=memora&theme=tokyonight&hide_border=true&show_owner=true&description=🧠%20Memory%20enhancement%20platform)](https://github.com/tosinxt/memora)
-[![SmartVest](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=smartvest&theme=tokyonight&hide_border=true&show_owner=true&description=💰%20Investment%20platform%20with%20analytics)](https://github.com/tosinxt/smartvest)
+[![SmartVest Repo](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=smartvest&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/tosinxt/smartvest)
 
 </div>
 
