@@ -1,9 +1,16 @@
+<!-- 🔥 EPIC COVER PHOTO SECTION 🔥 -->
+<!-- Main Dynamic Header with Twinkling Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oluwatosin%20Alli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=TOSIN&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🤖%20AI%20Engineer%20%7C%20⚙️%20Backend%20Developer%20%7C%20🚀%20Building%20the%20Future&descSize=20&descAlignY=65&descAlign=50" width="100%"/>
+</div>
+
+<!-- Subtitle Professional Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&height=60&lines=🎯+Welcome+to+my+Digital+Universe!;🤖+Building+Autodox+%26+Hustlrs+|+Revolutionizing+Tech;💡+22+Years+Old+|+Born+November+20%2C+2002;🔥+Leading+Backend+at+Memora+Hub+|+Serial+Entrepreneur" alt="Dynamic Subtitle" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Oluwatosin+Alli+🚀;Lead+Backend+Developer+%40+Memora+Hub;Built+Legacy+Systems+From+Scratch;Software+Engineering+Student+%40+Miva+University;Co-founder+%40+ALiAS+Hedge+Fund;GDSC+Backend+Systems+Member;Always+building+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Tosin+🚀;Lead+Backend+Developer+%40+Memora+Hub;Building+Autodox+AI+Code+Documenter+🤖;Building+Hustlrs+-+Nigeria's+Biggest+Tasking+Marketplace;Built+Legacy+Systems+From+Scratch;Software+Engineering+Student+%40+Miva+University;Co-founder+%40+ALiAS+Hedge+Fund;Always+building+something+revolutionary!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,21 +30,23 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> 
 
 ```yaml
-name: Oluwatosin Alli
+name: Tosin
+full_name: Oluwatosin Alli
 title: Lead Backend Developer @ Memora Hub
-age: 21
+age: 22
+birthday: November 20, 2002 🎂
 current_education: Software Engineering @ Miva University (2024-Present) 
 previous_education: Computer Science @ Babcock University (2020-2024) - Graduated
 location: Nigeria 🇳🇬
-expertise: [Legacy Systems, Microservices, System Architecture, FinTech]
-currently_building: [Scalable Backend Systems, AI-Powered Apps, FinTech Solutions]
-achievements: [Built Memora Hub from scratch, Co-founded ALiAS Hedge Fund]
+expertise: [Legacy Systems, AI Integration, Microservices, System Architecture, FinTech]
+currently_building: [Autodox - AI Code Documenter, Hustlrs - Nigeria's Biggest Tasking Marketplace]
+achievements: [Built Memora Hub from scratch, Co-founded ALiAS Hedge Fund, Building Nigeria's largest tasking platform]
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"> **Currently working on:** Leading backend development at Memora Hub & building legacy systems from scratch  
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> **Learning:** Advanced Software Engineering patterns, Cloud Architecture, AI/ML Integration  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **Ask me about:** Backend architecture, legacy system migration, startup development, FinTech  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> **Fun fact:** Built the entire Memora Hub backend infrastructure from the ground up!
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"> **Currently working on:** Leading backend at Memora Hub, Building Autodox AI Code Documenter & Hustlrs Marketplace  
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> **Learning:** Advanced AI/ML Integration, Large Scale System Design, DevOps & Cloud Architecture  
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="25"> **Ask me about:** Backend architecture, AI integration, legacy system migration, startup development, marketplace platforms  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="25"> **Fun fact:** Building Nigeria's biggest tasking marketplace while documenting code with AI! 🤖
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -60,6 +69,13 @@ achievements: [Built Memora Hub from scratch, Co-founded ALiAS Hedge Fund]
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Database & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -110,12 +126,19 @@ achievements: [Built Memora Hub from scratch, Co-founded ALiAS Hedge Fund]
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Current Projects
 
 <div align="center">
 
-[![Memora Hub](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=memora&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/tosinxt/memora)
-[![SmartVest](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=smartvest&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/tosinxt/smartvest)
+[![Autodox](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=autodox&theme=tokyonight&hide_border=true&show_owner=true&description=🤖%20AI-powered%20code%20documenter%20that%20parses%20source%20code)](https://github.com/tosinxt/autodox)
+[![Hustlrs](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=hustlrs&theme=tokyonight&hide_border=true&show_owner=true&description=🇳🇬%20Nigeria's%20biggest%20tasking%20marketplace)](https://github.com/tosinxt/hustlrs)
+
+</div>
+
+<div align="center">
+
+[![Memora Hub](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=memora&theme=tokyonight&hide_border=true&show_owner=true&description=🧠%20Memory%20enhancement%20platform)](https://github.com/tosinxt/memora)
+[![SmartVest](https://github-readme-stats.vercel.app/api/pin/?username=tosinxt&repo=smartvest&theme=tokyonight&hide_border=true&show_owner=true&description=💰%20Investment%20platform%20with%20analytics)](https://github.com/tosinxt/smartvest)
 
 </div>
 
@@ -125,17 +148,18 @@ achievements: [Built Memora Hub from scratch, Co-founded ALiAS Hedge Fund]
 
 | Project | Role | Description | Tech Stack | Status | Impact |
 |---------|------|-------------|------------|--------|---------|
+| **🤖 Autodox** | Founder & Lead Developer | AI-powered code documenter that parses source code and generates documentation | Python, OpenAI, NLP, FastAPI | Active Development | Revolutionizing Documentation |
+| **🇳🇬 Hustlrs** | Co-founder & CTO | Nigeria's biggest tasking marketplace platform | Node.js, React, PostgreSQL, Redis | Active Development | 50K+ Users Target |
 | **🧠 Memora Hub** | Lead Backend Developer | Built entire legacy system from scratch - Memory enhancement platform | Node.js, MongoDB, Redis, AWS | Production | 10K+ Users |
 | **🏦 ALiAS Hedge Fund** | Co-founder & CTO | FinTech platform for investment management | Node.js, PostgreSQL, Docker | Active | $500K+ Managed |
 | **🎓 SafeKid Platform** | Backend Architect | Child safety monitoring system | Express.js, PostgreSQL, Socket.io | Development | 5K+ Families |
 | **📚 Scholx Backend** | Senior Developer | Educational technology API platform | Node.js, MongoDB, GraphQL | Production | 50+ Schools |
-| **💰 E-Commerce Engine** | System Architect | Scalable microservices architecture | Docker, Kubernetes, AWS | Featured | 1M+ Requests/day |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"> System Architecture Focus
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"> AI & System Architecture Focus
 
 <div align="center">
 
@@ -145,28 +169,34 @@ graph TD
     A --> C[🏗️ System Design]
     A --> D[☁️ Cloud Computing]
     A --> E[🛡️ Security & Auth]
+    A --> F[🤖 AI Integration]
     
-    B --> F[API Gateway]
-    B --> G[Load Balancing]
-    B --> H[Service Mesh]
+    B --> G[API Gateway]
+    B --> H[Load Balancing]
+    B --> I[Service Mesh]
     
-    C --> I[Database Design]
-    C --> J[Caching Strategies]
-    C --> K[Message Queues]
+    C --> J[Database Design]
+    C --> K[Caching Strategies]
+    C --> L[Message Queues]
     
-    D --> L[AWS Services]
-    D --> M[Docker & K8s]
-    D --> N[CI/CD Pipelines]
+    D --> M[AWS Services]
+    D --> N[Docker & K8s]
+    D --> O[CI/CD Pipelines]
     
-    E --> O[JWT & OAuth]
-    E --> P[Rate Limiting]
-    E --> Q[Data Encryption]
+    E --> P[JWT & OAuth]
+    E --> Q[Rate Limiting]
+    E --> R[Data Encryption]
+    
+    F --> S[OpenAI Integration]
+    F --> T[ML Model Deployment]
+    F --> U[Natural Language Processing]
     
     style A fill:#ff9999
     style B fill:#66b3ff
     style C fill:#99ff99
     style D fill:#ffcc99
     style E fill:#ff99cc
+    style F fill:#99ccff
 ```
 
 </div>
@@ -199,12 +229,15 @@ graph TD
 
 <div align="center">
 
+🎂 **Born November 20, 2002** - 22 years of building amazing things  
+🤖 **Founder @ Autodox** - Revolutionizing code documentation with AI  
+🇳🇬 **Co-founder @ Hustlrs** - Building Nigeria's biggest tasking marketplace  
 🏆 **Lead Backend Developer @ Memora Hub** - Built entire legacy system from scratch  
 🎓 **Software Engineering Student @ Miva University** - Currently pursuing advanced degree  
 🏢 **Co-founder @ ALiAS Hedge Fund** - FinTech Startup revolutionizing investment  
 💻 **GDSC Backend Systems Member** - Google Developer Student Clubs  
-🌟 **Legacy System Architect** - Specializing in scalable, maintainable architectures  
-🚀 **Startup Technical Co-founder** - Multiple successful launches  
+🌟 **AI Integration Specialist** - Specializing in AI-powered applications  
+🚀 **Serial Entrepreneur** - Multiple successful tech ventures  
 
 </div>
 
@@ -264,6 +297,6 @@ graph TD
 
 <div align="center">
   
-⭐️ **From [tosinxt](https://github.com/tosinxt)** - *Building the future, one commit at a time* ⭐️
+⭐️ **From [Tosin](https://github.com/tosinxt)** - *Building the future with AI, one commit at a time* ⭐️
 
 </div>
